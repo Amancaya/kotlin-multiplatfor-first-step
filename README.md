@@ -1,2 +1,4 @@
 # kotlin-multiplatfor-first-step
-Primer vistazo de kotlin multiplatform siguiendo la guía de  https://play.kotlinlang.org/hands-on/Targeting%20iOS%20and%20Android%20with%20Kotlin%20Multiplatform/01_Introduction
+Primer vistazo de kotlin multiplatform 
+
+![alt kotlin multiplatfor](https://miro.medium.com/max/981/1*Kxwb1Lzy0BhhKFWeqhOgzQ.png)
